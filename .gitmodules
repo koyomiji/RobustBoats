@@ -1,0 +1,3 @@
+[submodule "external/asmine"]
+	path = external/asmine
+	url = https://github.com/k0michi/asmine

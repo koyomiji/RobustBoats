@@ -1,0 +1,16 @@
+[
+{
+  "modid": "robustboats",
+  "name": "RobustBoats",
+  "description": "No more fragile boats.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/koyomiji/RobustBoats",
+  "updateUrl": "",
+  "authorList": ["k0michi"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
